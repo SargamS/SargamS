@@ -1,8 +1,8 @@
 <div align="center">
- 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78C6B&center=true&vCenter=true&width=600&lines=👋+Hey there!+I'm+Sargam+🇫🇷;Aspiring+Developer+💻;AI+%26+Web+Enthusiast+🚀;Open+Source+Contributor+🌍;Debugging+Life+One+Line+at+a+Time!)](https://git.io/typing-svg)
 
- </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F78C6B&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Sargam!)](https://git.io/typing-svg)
+
+</div>
  
 💬 *"Je code, donc je suis."* — “I code, therefore I am.” 🇫🇷 
 
@@ -51,9 +51,13 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 
 ## 🌐 Connect With Me  
 
+## 🌐 Connect With Me  
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SargamS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-sargam-sharma/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sargam1086@gmail.com)
+
+---
 
 ---
 
