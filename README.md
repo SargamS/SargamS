@@ -11,9 +11,7 @@
 ---
 
 ### 🌍 About Me
-Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅  
-I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts.  
-Currently, I’m **figuring out Data Structures and Algorithms** — which basically means staring at code until it either works or I do.  
+Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅 I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts. Currently, I’m **figuring out Data Structures and Algorithms** — which basically means staring at code until it either works or I do.  
 
  > 🐍 Fun Fact: My relationship with DSA is like French cheese — complex, mature, and occasionally smells like syntax errors.
 
@@ -50,25 +48,6 @@ Currently, I’m **figuring out Data Structures and Algorithms** — which basic
 
 ## 🏆 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
-
----
-
-## 🛠️ Open Source Contributions  
-
-I love collaborating on projects that make an impact, whether that’s fixing bugs, writing docs, or breaking production in new and exciting ways 😎  
-
-- Participated in **GSSOC’25** and similar open-source programs  
-- Contributed to projects in **Web Applications**, **Documentation**, and **Issue Resolution**  
-- Always eager to collaborate and learn from developers worldwide 🌍  
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SargamS&theme=github-dark)
-
----
-
-## 🏆 GitHub Statistics  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=github_dark)
 
 ---
 
