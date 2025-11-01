@@ -1,18 +1,17 @@
 # 👋 Hello, I'm Sargam
+💬 *"Je code, donc je suis."* — “I code, therefore I am.” 🇫🇷 
 
 ### Aspiring Developer | AI & Web Enthusiast | Open Source Contributor | Occasional Code Philosopher
 
 ---
 
 ### 🌍 About Me
-Hey there, I’m Sargam — a passionate developer on a noble quest to make computers cry a little less.  
-I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅  
-
+Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅  
 I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts.  
 
 Currently, I’m **figuring out Data Structures and Algorithms** — which basically means staring at code until it either works or I do.  
 
-💬 *"Je code, donc je suis."* — “I code, therefore I am.” 🇫🇷  
+ > 🐍 Fun Fact: My relationship with DSA is like French cheese — complex, mature, and occasionally smells like syntax errors.
 
 
 ## 🧠 Tech Stack
