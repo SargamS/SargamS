@@ -1,8 +1,10 @@
-# 👋 Hello, I'm Sargam
+<div align="center">
+ # 👋 Hello, I'm Sargam
 💬 *"Je code, donc je suis."* — “I code, therefore I am.” 🇫🇷 
 
 ### Aspiring Developer | AI & Web Enthusiast | Open Source Contributor | Occasional Code Philosopher
 
+</div>
 ---
 
 ### 🌍 About Me
@@ -40,14 +42,13 @@ Currently, I’m **figuring out Data Structures and Algorithms** — which basic
 ![Figma API](https://img.shields.io/badge/Figma%20API-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SargamS&theme=github-dark)
 
 ---
 
 ## 🏆 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=github_dark)
 
 ---
 
-💬 _"Debugging life, one line at a time!"_
