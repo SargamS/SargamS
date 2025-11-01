@@ -1,13 +1,10 @@
 <div align="center">
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78C6B&center=true&vCenter=true&width=600&lines=👋+Bonjour!+I'm+Sargam+🇫🇷;Aspiring+Developer+💻;AI+%26+Web+Enthusiast+🚀;Open+Source+Contributor+🌍;Debugging+Life+One+Line+at+a+Time!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F78C6B&center=true&vCenter=true&width=600&lines=👋+Hey there!+I'm+Sargam+🇫🇷;Aspiring+Developer+💻;AI+%26+Web+Enthusiast+🚀;Open+Source+Contributor+🌍;Debugging+Life+One+Line+at+a+Time!)](https://git.io/typing-svg)
 
  </div>
  
 💬 *"Je code, donc je suis."* — “I code, therefore I am.” 🇫🇷 
-
-### Aspiring Developer | AI & Web Enthusiast | Open Source Contributor | Occasional Code Philosopher
-
 
 ---
 
