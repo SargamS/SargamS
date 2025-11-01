@@ -1,10 +1,13 @@
 <div align="center">
+ 
  # 👋 Hello, I'm Sargam
+ </div>
+ 
 💬 *"Je code, donc je suis."* — “I code, therefore I am.” 🇫🇷 
 
 ### Aspiring Developer | AI & Web Enthusiast | Open Source Contributor | Occasional Code Philosopher
 
-</div>
+
 ---
 
 ### 🌍 About Me
