@@ -10,7 +10,9 @@
 
 ### 🌍 About Me
 Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅 I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts. Currently, I’m **figuring out Data Structures and Algorithms** —which basically means staring at code until it either works or I do.  
-
+<div align="center">
+  <img src="https://i.pinimg.com/736x/c3/f3/79/c3f379c46231360c8d7f088e87d0b98f.jpg" width="350" alt="Coffee aesthetic image"/>
+</div>
 > 🐍 Fun Fact: My relationship with DSA is like French cheese — complex, mature, and occasionally smells like syntax errors.
 
 ---
