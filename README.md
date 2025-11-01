@@ -13,7 +13,7 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts.  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="250" alt="Coffee pouring gif"/>
+  <img src="https://i.pinimg.com/originals/7e/01/53/7e01538dec2b3e8b85d154b88cfbd137.gif" width="250" alt="Coffee pouring gif"/>
 </div>
 
 Currently, I’m **figuring out Data Structures and Algorithms** — which basically means staring at code until it either works or I do.  
