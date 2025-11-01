@@ -1,17 +1,16 @@
-<!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=F78C6B&height=150&section=header&text=Sargam%20Sharma%20💻&fontSize=40&fontColor=ffffff&animation=fadeIn)
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F78C6B&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Sargam!)](https://git.io/typing-svg)
 
-💬 *"Je code, donc je suis."* — “I code, therefore I am.” 🇫🇷  
+</div>
+ 
+💬 *"Je code, donc je suis."* — “I code, therefore I am.” 🇫🇷 
 
 ---
 
 ### 🌍 About Me
-Hey there, I’m **Sargam** — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅  
-I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open-source projects because nothing says “fun weekend” like 47 merge conflicts.  
+Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅  
+I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts.  
 
 Currently, I’m **figuring out Data Structures and Algorithms** — which basically means staring at code until it either works or I do.  
 
@@ -49,19 +48,11 @@ Currently, I’m **figuring out Data Structures and Algorithms** — which basic
 
 ---
 
-## 🏆 GitHub Highlights  
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=SargamS&theme=onedark&no-frame=true&margin-w=15)
-
 <div align="center">
 
-<!-- STATS -->
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark" alt="GitHub Stats" height="170"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=github_dark" alt="Top Languages" height="170"/></td>
-  </tr>
-</table>
+## 🏆 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
 
 ---
 
@@ -71,19 +62,8 @@ Currently, I’m **figuring out Data Structures and Algorithms** — which basic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-sargam-sharma/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sargam1086@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=SargamS&label=Profile%20views&color=F78C6B&style=flat)
-
 ---
 
 ⭐ “My code doesn’t have bugs — it just develops unexpected personality traits.” 🐛✨  
-<br>
-> 🕵️‍♀️ *Psst... if you’re reading this, you now owe me a coffee.* ☕
-
-<br>
-
-![Snake animation](https://github.com/SargamS/SargamS/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<!-- FOOTER -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=F78C6B&height=120&section=footer)
