@@ -59,14 +59,16 @@ Currently, I’m **figuring out Data Structures and Algorithms** — which basic
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
 
 ---
+<div align="center">
 
-## 🌐 Connect With Me  
+💌 *Let’s build, break, and laugh together!*  
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SargamS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-sargam-sharma/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sargam1086@gmail.com)
 
----
+</div>
+
 
 ⭐ “My code doesn’t have bugs — it just develops unexpected personality traits.” 🐛✨  
 
