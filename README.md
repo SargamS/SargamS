@@ -13,7 +13,6 @@
 ### 🌍 About Me
 Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅  
 I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts.  
-
 Currently, I’m **figuring out Data Structures and Algorithms** — which basically means staring at code until it either works or I do.  
 
  > 🐍 Fun Fact: My relationship with DSA is like French cheese — complex, mature, and occasionally smells like syntax errors.
@@ -35,7 +34,6 @@ Currently, I’m **figuring out Data Structures and Algorithms** — which basic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-%2300C4CC.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23007ACC.svg?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,3 +53,31 @@ Currently, I’m **figuring out Data Structures and Algorithms** — which basic
 
 ---
 
+## 🛠️ Open Source Contributions  
+
+I love collaborating on projects that make an impact, whether that’s fixing bugs, writing docs, or breaking production in new and exciting ways 😎  
+
+- Participated in **GSSOC’25** and similar open-source programs  
+- Contributed to projects in **Web Applications**, **Documentation**, and **Issue Resolution**  
+- Always eager to collaborate and learn from developers worldwide 🌍  
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SargamS&theme=github-dark)
+
+---
+
+## 🏆 GitHub Statistics  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=github_dark)
+
+---
+
+## 🌐 Connect With Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SargamS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+
+---
+
+⭐ *“Striving for excellence through learning, debugging, and occasionally crying over semicolons.”* 😭
