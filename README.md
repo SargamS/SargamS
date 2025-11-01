@@ -9,10 +9,14 @@
 ---
 
 ### 🌍 About Me
-Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅 I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts. Currently, I’m **figuring out Data Structures and Algorithms** — which basically means staring at code until it either works or I do.  
+Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅  
+I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts.  
 
- > 🐍 Fun Fact: My relationship with DSA is like French cheese — complex, mature, and occasionally smells like syntax errors.
+Currently, I’m **figuring out Data Structures and Algorithms** — which basically means staring at code until it either works or I do.  
 
+> 🐍 Fun Fact: My relationship with DSA is like French cheese — complex, mature, and occasionally smells like syntax errors.
+
+---
 
 ## 🧠 Tech Stack
 
@@ -44,7 +48,10 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 
 ---
 
-## 🏆 GitHub Stats
+<div align="center">
+
+## 🏆 GitHub Stats  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
 
 ---
@@ -57,4 +64,7 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 
 ---
 
-⭐ “Oui, je write code — kabhi run hota hai, kabhi ruin.” 🇫🇷💻
+⭐ “My code doesn’t have bugs — it just develops unexpected personality traits.” 🐛✨  
+
+</div>
+
