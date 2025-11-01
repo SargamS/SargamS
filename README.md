@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sargam
 
-🚀 **Aspiring Developer | AI & Web Enthusiast | Open Source Contributor**
+*Aspiring Developer | AI & Web Enthusiast | Open Source Contributor | Occasional Code Philosopher*
 
 ---
 
