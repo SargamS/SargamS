@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=💬+"Je+code,+donc+je+suis."+—+"I+code,+therefore+I+am."+🇫🇷)](https://git.io/typing-svg)
+![Quote](https://img.shields.io/badge/%F0%9F%92%AC%20%22Je%20code%2C%20donc%20je%20suis.%22%20%E2%80%94%20I%20code%2C%20therefore%20I%20am.%20🇫🇷-FF69B4?style=for-the-badge)
 
 </div>
 
