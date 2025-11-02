@@ -41,9 +41,6 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SargamS&theme=github-dark)
-
----
 
 <div align="center">
 
