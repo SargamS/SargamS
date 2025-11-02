@@ -4,7 +4,11 @@
 
 </div>
 
-<h3 style="color:#ff69b4;">💬 <i>"Je code, donc je suis."</i> — “I code, therefore I am.” 🇫🇷</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=💬+"Je+code,+donc+je+suis."+—+"I+code,+therefore+I+am."+🇫🇷)](https://git.io/typing-svg)
+
+</div>
 
 Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅 I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts. Currently, I’m **figuring out Data Structures and Algorithms** —which basically means staring at code until it either works or I do.  
 
