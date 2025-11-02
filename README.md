@@ -6,7 +6,6 @@
  
 ### 💬 <span style="color:#ff69b4;">*"Je code, donc je suis."* — “I code, therefore I am.” 🇫🇷</span>
 
-### 🌍 About Me
 Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan. 💅 I love exploring new tech, solving real-world problems (after 3 cups of coffee ☕), and contributing to open source projects because nothing says “fun weekend” like 47 merge conflicts. Currently, I’m **figuring out Data Structures and Algorithms** —which basically means staring at code until it either works or I do.  
 
 ## 🧠 Tech Stack
