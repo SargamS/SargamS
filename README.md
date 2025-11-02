@@ -41,10 +41,26 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
 
-## 🌐 Connect With Me  
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SargamS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-sargam-sharma/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sargam1086@gmail.com)
+  ## 🌐 Connect With Me  
+
+  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <div>
+      <a href="https://github.com/SargamS">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+      </a>
+      <a href="https://www.linkedin.com/in/er-sargam-sharma/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+      <a href="mailto:sargam1086@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+      </a>
+    </div>
+
+    <img src="https://i.pinimg.com/originals/23/f4/64/23f464f6ddbe734c52b46441552fa110.gif" width="220" alt="connect-gif" style="border-radius: 15px;">
+  </div>
+
+</div>
 
 </div>
