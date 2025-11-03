@@ -41,6 +41,9 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
 
+📝 **Latest Blog Post:**  
+> [404 Not Found? More Like 404 Eternally Archived 🕸️](https://medium.com/@protegeigdtuw/404-not-found-more-like-404-eternally-archived-402143f6df44)
+
 ## 🌐 Connect With Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SargamS)
