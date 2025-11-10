@@ -24,15 +24,11 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ### ⚙️ Computer Science Fundamentals
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-00C4CC?style=for-the-badge&logo=databricks&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OOPs](https://img.shields.io/badge/OOPs-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-
----
 
 ### 📚 Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -43,8 +39,6 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
-
 ### 🧩 Tools & Platforms
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Figma API](https://img.shields.io/badge/Figma%20API-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -52,7 +46,6 @@ Hey there, I’m Sargam — I build cool digital stuff, break it accidentally, a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 
 
 <div align="center">
