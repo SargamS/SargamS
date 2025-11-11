@@ -5,8 +5,11 @@
 </div>
 
 <div align="center">
+<p>There’s no place like <code>127.0.0.1</code></p>
 
-There’s no place like 127.0.0.1
+<button onclick="navigator.clipboard.writeText('127.0.0.1')">
+  📋 Copy
+</button>
 
 
 </div>
