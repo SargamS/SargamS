@@ -10,9 +10,10 @@
 
 </div>
 
-- 👋 Hey, I’m **Sargam** — I build cool digital stuff, break it accidentally, and then pretend it was all part of the plan.  
-- 💡 Love solving **real-world problems** (after at least 3 cups of coffee ☕).  
-- 💻 Enjoy **contributing to open source** — because nothing says “fun weekend” like 47 merge conflicts.  
+- 👋 Hey, I’m **Sargam** — 🎓 **2nd-year IT** student (Graduating in 2028) maintaining a CGPA of **9.48**.
+- 💻 I build digital stuff, break it accidentally, and pretend it was all part of the plan
+- 💡 Passionate about solving real-world problems (preferably after 3 cups of coffee ☕)
+- 🧩 Enjoy **contributing to open source** — because nothing says “fun weekend” like 47 merge conflicts.  
 - 🔍 Currently **figuring out Data Structures & Algorithms** — which basically means staring at code until it either works… or I do.  
 
 ## 🧠 Tech Stack
