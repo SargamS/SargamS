@@ -12,7 +12,9 @@ There’s no place like 127.0.0.1 🏠
 - 💻 I build digital stuff, break it accidentally, and pretend it was all part of the plan
 - 💡 Passionate about solving real-world problems (preferably after 3 cups of coffee ☕)
 - 🧩 Enjoy **contributing to open source** — because nothing says “fun weekend” like 47 merge conflicts.  
-- 🔍 Currently **figuring out Data Structures & Algorithms** — which basically means staring at code until it either works… or I do.  
+- 🔍 Currently **figuring out Data Structures & Algorithms** — which basically means staring at code until it either works… or I do.
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=username&color=blue)
 
 ## Tech Stack
 
