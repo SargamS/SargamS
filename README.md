@@ -7,7 +7,7 @@
 <div align="center">
 
 ```
-Programmer (noun): A machine that turns coffee into code
+There’s no place like 127.0.0.1 🏠
 ```
 
 </div>
