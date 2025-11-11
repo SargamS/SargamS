@@ -6,8 +6,9 @@
 
 <div align="center">
 
-`Programmer (noun): A machine that turns coffee into code`  
-<button onclick="navigator.clipboard.writeText('Programmer (noun): A machine that turns coffee into code')">Copy</button>
+```
+Programmer (noun): A machine that turns coffee into code
+```
 
 </div>
 
