@@ -1,9 +1,11 @@
 ## printf("Hello world<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> "); 
 
 <div align="center">
+  
 ```
 There’s no place like 127.0.0.1 🏠
 ```
+
 </div>
 
 - 👋 Hey, I’m **Sargam** — 🎓 **2nd-year IT** student (Graduating in 2028) maintaining a CGPA of **9.48**.
