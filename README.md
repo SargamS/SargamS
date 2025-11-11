@@ -49,6 +49,7 @@ There’s no place like 127.0.0.1 🏠
 ## GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SargamS&theme=github-dark)
 
 
 ## Connect With Me  
@@ -56,6 +57,6 @@ There’s no place like 127.0.0.1 🏠
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SargamS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-sargam-sharma/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sargam1086@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366→00C851?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918377053540?text=Hi%20Sargam!%20I%20found%20you%20on%20GitHub.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918377053540?text=Hi%20Sargam!%20I%20found%20you%20on%20GitHub.)
 
 </div>
