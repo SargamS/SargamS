@@ -5,12 +5,9 @@
 </div>
 
 <div align="center">
-<p>There’s no place like <code>127.0.0.1</code></p>
 
-<button onclick="navigator.clipboard.writeText('127.0.0.1')">
-  📋 Copy
-</button>
-
+`Programmer (noun): A machine that turns coffee into code`  
+<button onclick="navigator.clipboard.writeText('Programmer (noun): A machine that turns coffee into code')">Copy</button>
 
 </div>
 
