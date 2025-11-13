@@ -5,8 +5,9 @@
 ```
 There’s no place like 127.0.0.1 🏠
 ```
-<!-- Added GIF below -->
-<img src="/mnt/data/Loading - Kirokaze Pixel.gif" width="200px">
+
+<!-- GIF added below -->
+<img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" width="220px">
 
 </div>
 
@@ -16,9 +17,9 @@ There’s no place like 127.0.0.1 🏠
 - 🧩 Enjoy **contributing to open source** — because nothing says “fun weekend” like 47 merge conflicts.  
 - 🔍 Currently **figuring out Data Structures & Algorithms** — which basically means staring at code until it either works… or I do.
 
-<!-- GIF aligned right of pointers -->
+<!-- GIF aligned to the right of pointers -->
 <div align="right">
-  <img src="/mnt/data/Loading - Kirokaze Pixel.gif" width="180px">
+  <img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" width="190px">
 </div>
   
 ## Tech Stack
