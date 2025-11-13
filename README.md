@@ -5,13 +5,14 @@
 ```
 There’s no place like 127.0.0.1 🏠
 ```
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" />
+
 - 👋 Hey, I’m **Sargam** — 🎓 **2nd-year IT** student (Graduating in 2028) maintaining a CGPA of **9.48**.
 - 💻 I build digital stuff, break it accidentally, and pretend it was all part of the plan
 - 💡 Passionate about solving real-world problems (preferably after 3 cups of coffee ☕)
 - 🧩 Enjoy **contributing to open source** — because nothing says “fun weekend” like 47 merge conflicts.
 - 🔍 Currently **figuring out Data Structures & Algorithms** — which basically means staring at code until it either works… or I do.
-
-<img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" width="240px">
   
 ## Tech Stack
 
