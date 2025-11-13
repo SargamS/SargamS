@@ -1,10 +1,12 @@
 ## printf("Hello world<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> "); 
+<div align="center">
   
 ```
 There’s no place like 127.0.0.1 🏠
 ```
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" />
+<table>
+<tr>
+<td>
 
 - 👋 Hey, I’m **Sargam** — 🎓 **2nd-year IT** student (Graduating in 2028) maintaining a CGPA of **9.48**.
 - 💻 I build digital stuff, break it accidentally, and pretend it was all part of the plan
@@ -12,7 +14,14 @@ There’s no place like 127.0.0.1 🏠
 - 🧩 Enjoy **contributing to open source** — because nothing says “fun weekend” like 47 merge conflicts.
 - 🔍 Currently **figuring out Data Structures & Algorithms** — which basically means staring at code until it either works… or I do.
 
-<div align="center">
+</td>
+<td>
+
+<img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" width="240px">
+
+</td>
+</tr>
+</table>
   
 ## Tech Stack
 
