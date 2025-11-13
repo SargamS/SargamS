@@ -1,6 +1,4 @@
 ## printf("Hello world<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> "); 
-
-<div align="center">
   
 ```
 There’s no place like 127.0.0.1 🏠
@@ -13,6 +11,8 @@ There’s no place like 127.0.0.1 🏠
 - 💡 Passionate about solving real-world problems (preferably after 3 cups of coffee ☕)
 - 🧩 Enjoy **contributing to open source** — because nothing says “fun weekend” like 47 merge conflicts.
 - 🔍 Currently **figuring out Data Structures & Algorithms** — which basically means staring at code until it either works… or I do.
+
+<div align="center">
   
 ## Tech Stack
 
