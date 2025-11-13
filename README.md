@@ -6,9 +6,6 @@
 There’s no place like 127.0.0.1 🏠
 ```
 
-<!-- GIF added below -->
-<img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" width="220px">
-
 </div>
 
 - 👋 Hey, I’m **Sargam** — 🎓 **2nd-year IT** student (Graduating in 2028) maintaining a CGPA of **9.48**.
