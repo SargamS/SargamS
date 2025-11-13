@@ -5,6 +5,8 @@
 ```
 There’s no place like 127.0.0.1 🏠
 ```
+<!-- Added GIF below -->
+<img src="/mnt/data/Loading - Kirokaze Pixel.gif" width="200px">
 
 </div>
 
@@ -14,7 +16,10 @@ There’s no place like 127.0.0.1 🏠
 - 🧩 Enjoy **contributing to open source** — because nothing says “fun weekend” like 47 merge conflicts.  
 - 🔍 Currently **figuring out Data Structures & Algorithms** — which basically means staring at code until it either works… or I do.
 
-<div align="center">
+<!-- GIF aligned right of pointers -->
+<div align="right">
+  <img src="/mnt/data/Loading - Kirokaze Pixel.gif" width="180px">
+</div>
   
 ## Tech Stack
 
