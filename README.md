@@ -52,12 +52,11 @@ There’s no place like 127.0.0.1 🏠
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SargamS&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=SargamS&theme=tokyonight&hide_border=true" height="170"/>
-</div>
+![SargamS's GitHub stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=radical)
 
 ## 🤝 Connect With Me
 
