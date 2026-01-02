@@ -15,7 +15,7 @@
 <tr>
 <td>
   
-![Funny coding formula](images/1cf291d7-8fab-4f36-9c56-fcb9fa2678bf.png)
+![Funny coding formula](https://ibb.co/pBfFZk0k)
 
 - 💻 I build digital solutions… and sometimes destroy them spectacularly — all in the name of **“learning by debugging.”**  
 - 💡 Passionate about solving real-world problems (coffee ☕ strongly recommended for survival).  
