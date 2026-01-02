@@ -19,7 +19,7 @@
 - 💡 Passionate about solving real-world problems (coffee ☕ strongly recommended for survival).  
 - 🧩 Open-source addict — because nothing says “fun weekend” like 47 merge conflicts and a mysterious `git push` panic.  
 - 🔍 Exploring **Data Structures & Algorithms** — mostly trying to bribe my code into cooperating.  
-- 🌱 Forever a student of code, bugs, and life — excited to **learn, contribute, and grow** with **GSoC & GSSoC**.  
+- 🌱 Forever a student of code, bugs, and life. 
 
 </td>
 <td>
