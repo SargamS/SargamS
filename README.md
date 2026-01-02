@@ -1,4 +1,6 @@
-## printf("Hello world<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> "); 
+## printf("Hi, I’m Sargam Sharma<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> "); 
+🎓 2nd-year IT Student | Open-Source Enthusiast  
+💻 Building digital solutions | Debugging adventures included | Always learning  
 <div align="center">
   
 ```
@@ -8,11 +10,10 @@ There’s no place like 127.0.0.1 🏠
 <tr>
 <td>
 
-- 👋 Hey, I’m **Sargam** — 🎓 **2nd-year IT** student (Graduating in 2028) maintaining a CGPA of **9.48**.
-- 💻 I build digital stuff, break it accidentally, and pretend it was all part of the plan
-- 💡 Passionate about solving real-world problems (preferably after 3 cups of coffee ☕)
-- 🧩 Enjoy **contributing to open source** — because nothing says “fun weekend” like 47 merge conflicts.
-- 🔍 Currently **figuring out Data Structures & Algorithms** — which basically means staring at code until it either works… or I do.
+- 💻 I build digital solutions, occasionally break them, and call it **“learning by debugging.”**  
+- 💡 Passionate about solving real-world problems (coffee ☕ optional but recommended).  
+- 🧩 Love **contributing to open-source** — because nothing says “fun weekend” like 47 merge conflicts.  
+- 🔍 Currently exploring **Data Structures & Algorithms** — mostly involves staring at code until it finally obeys me. 
 
 </td>
 <td>
