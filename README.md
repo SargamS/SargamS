@@ -15,7 +15,7 @@
 <tr>
 <td>
 
-![Funny Programmer Equation](images/code_fun.png)
+![Funny Programmer Equation](https://i.pinimg.com/1200x/ad/7b/14/ad7b1421cb67f9094c3a8d23029b71e6.jpg)
 
 - 💻 I build digital solutions… and sometimes destroy them spectacularly — all in the name of **“learning by debugging.”**  
 - 💡 Passionate about solving real-world problems (coffee ☕ strongly recommended for survival).  
