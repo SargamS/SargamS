@@ -54,12 +54,28 @@ There’s no place like 127.0.0.1 🏠
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SargamS)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-sargam-sharma/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sargam1086@gmail.com)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sargam08)
-
+<p align="center">
+  <a href="https://github.com/SargamS">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/er-sargam-sharma/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sargam1086@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/sargam08">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
