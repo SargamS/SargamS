@@ -15,7 +15,7 @@
 <tr>
 <td>
 
-![Uploading image.png…]()
+![Funny Programmer Equation](./624e40a0-4658-4894-b0ba-7872f6e243d1.png)
 
 - 💻 I build digital solutions… and sometimes destroy them spectacularly — all in the name of **“learning by debugging.”**  
 - 💡 Passionate about solving real-world problems (coffee ☕ strongly recommended for survival).  
