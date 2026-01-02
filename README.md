@@ -14,8 +14,8 @@
 <table>
 <tr>
 <td>
-
-![Funny Programmer Equation](https://i.pinimg.com/1200x/ad/7b/14/ad7b1421cb67f9094c3a8d23029b71e6.jpg)
+  
+![Funny coding formula](images/1cf291d7-8fab-4f36-9c56-fcb9fa2678bf.png)
 
 - 💻 I build digital solutions… and sometimes destroy them spectacularly — all in the name of **“learning by debugging.”**  
 - 💡 Passionate about solving real-world problems (coffee ☕ strongly recommended for survival).  
