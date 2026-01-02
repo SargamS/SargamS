@@ -28,19 +28,6 @@
 </td>
 </tr>
 </table>
-# The Real Coding Formula 😅
-
-> Coding ≈ "Apply logic + hope for the best + pray nothing breaks"
-
-```text
-Real Code = 
-    If (works on first try) {
-        Success!
-    } else {
-        Debug()
-        Repeat until coffee runs out
-    }
-```
 
 ## Tech Stack
 
@@ -69,8 +56,16 @@ Real Code =
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-```
-There’s no place like 127.0.0.1 🏠
-```
 </div>  
+
+The Real Coding Formula 
+
+```text
+Real Code =
+    if (worksOnFirstTry) {
+        Success!
+    } else {
+        Debug();
+        repeat until (coffeeRunsOut);
+    }
+```
