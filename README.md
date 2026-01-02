@@ -15,10 +15,11 @@
 <tr>
 <td>
 
-- 💻 I build digital solutions, occasionally break them, and call it **“learning by debugging.”**  
-- 💡 Passionate about solving real-world problems (coffee ☕ optional but recommended).  
-- 🧩 Love **contributing to open-source** — because nothing says “fun weekend” like 47 merge conflicts.  
-- 🔍 Currently exploring **Data Structures & Algorithms** — mostly involves staring at code until it finally obeys me. 
+- 💻 I build digital solutions… and sometimes destroy them spectacularly — all in the name of **“learning by debugging.”**  
+- 💡 Passionate about solving real-world problems (coffee ☕ strongly recommended for survival).  
+- 🧩 Open-source addict — because nothing says “fun weekend” like 47 merge conflicts and a mysterious `git push` panic.  
+- 🔍 Exploring **Data Structures & Algorithms** — mostly trying to bribe my code into cooperating.  
+- 🌱 Forever a student of code, bugs, and life — excited to **learn, contribute, and grow** with **GSoC & GSSoC**.  
 
 </td>
 <td>
