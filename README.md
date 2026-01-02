@@ -55,13 +55,9 @@ There’s no place like 127.0.0.1 🏠
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SargamS&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=SargamS&theme=tokyonight&hide_border=true" height="170"/>
 </div>
-
 
 ## 🤝 Connect With Me
 
