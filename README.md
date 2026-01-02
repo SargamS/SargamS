@@ -10,9 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sargam1086@gmail.com)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sargam08)
   
-```
-There’s no place like 127.0.0.1 🏠
-```
+
 <table>
 <tr>
 <td>
@@ -61,8 +59,8 @@ There’s no place like 127.0.0.1 🏠
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=github_dark)
+```
+There’s no place like 127.0.0.1 🏠
+```
 
 </div>  
