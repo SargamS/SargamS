@@ -9,13 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-sargam-sharma/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sargam1086@gmail.com)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sargam08)
-  
 
 <table>
 <tr>
 <td>
-  
-![Funny coding formula](https://i.pinimg.com/1200x/ad/7b/14/ad7b1421cb67f9094c3a8d23029b71e6.jpg width= "120px")
 
 - 💻 I build digital solutions… and sometimes destroy them spectacularly — all in the name of **“learning by debugging.”**  
 - 💡 Passionate about solving real-world problems (coffee ☕ strongly recommended for survival).  
@@ -31,9 +28,20 @@
 </td>
 </tr>
 </table>
+# The Real Coding Formula 😅
 
+> Coding ≈ "Apply logic + hope for the best + pray nothing breaks"
 
-  
+```text
+Real Code = 
+    If (works on first try) {
+        Success!
+    } else {
+        Debug()
+        Repeat until coffee runs out
+    }
+```
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,5 +73,4 @@
 ```
 There’s no place like 127.0.0.1 🏠
 ```
-
 </div>  
