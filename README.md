@@ -1,4 +1,4 @@
-## printf("Hello world<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> "); 
+## printf("I’m Sargam Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> "); 
 <div align="center">
   
 ```
@@ -8,11 +8,11 @@ There’s no place like 127.0.0.1 🏠
 <tr>
 <td>
 
-# 👋 Hi, I’m Sargam Sharma
+## 🏠 About Me
+
 🎓 2nd-year IT Student | Open-Source Enthusiast  
 💻 Building digital solutions | Solving problems | Learning constantly  
 
-## 🏠 About Me
 - I love building digital solutions and exploring new technologies.  
 - Passionate about **Data Structures, Algorithms, and Open-Source**.  
 - Enjoy **learning by doing** — whether it’s coding, debugging, or creating documentation.  
