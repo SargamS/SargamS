@@ -54,9 +54,17 @@ There’s no place like 127.0.0.1 🏠
 
 ## 📊 GitHub Stats
 
-![SargamS's GitHub stats](https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SargamS&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🤝 Connect With Me
 
