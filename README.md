@@ -25,7 +25,12 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 + 🧩 Solving problems I invented approximately 24 hours ago
 + 🌀 Deploy first, panic accordingly
 + ☕ Open-source addict — because nothing says “fun weekend” like 47 merge conflicts and a mysterious `git push` panic.  
-+ 🌱 Exploring **Data Structures & Algorithms** — mostly trying to bribe my code into cooperating.  
++ 🌱 Exploring **Data Structures & Algorithms** — mostly trying to bribe my code into cooperating.
++ <p align="center">
+
+[![Resume](https://img.shields.io/badge/📄_Download-Resume-brightgreen?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1zgPG3nNXcda1tYqfAke0qbEgAUwHvnGb)
+
+</p>
 
 </td>
 <td>
@@ -36,11 +41,6 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </tr>
 </table>
 
-<p align="center">
-
-[![Resume](https://img.shields.io/badge/📄_Download-Resume-brightgreen?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1zgPG3nNXcda1tYqfAke0qbEgAUwHvnGb)
-
-</p>
 
 <h2 align="center">Tech Stack</h2>
 
