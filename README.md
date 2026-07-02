@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sargam+Sharma;IT+Student+%7C+Open-Source+Enthusiast;Debugging+life%2C+one+push+at+a+time" alt="Typing SVG" />
 </h1>
 
-## printf("Hi, I’m Sargam Sharma<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> "); 
-🎓 2nd-year IT Student | Open-Source Enthusiast  
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+
+🎓 3rd-year IT Student | Open-Source Enthusiast  
 💻 Building digital solutions | Debugging adventures included | Always learning  
 <div align="center">
 
