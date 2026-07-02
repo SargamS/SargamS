@@ -68,15 +68,15 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 The Real Coding Formula 😅
 
 ```text
+const developer = { confidence: Math.random() }; // no correlation to actual skill
+
 Real Code =
     if (worksOnFirstTry) {
-        screenshot(); // for proof, no one will believe me
+        screenshot();               // for proof, no one will believe me
+        developer.mood = "euphoric";
     } else {
         Debug();
         repeat until (willToLiveRunsOut);
+        developer.mood = "questioning_life_choices";
     }
-const developer = {
-    mood: getBuildStatus() === "passed" ? "euphoric" : "questioning_life_choices",
-    confidence: Math.random(), // no correlation to actual skill
-};
 ```
