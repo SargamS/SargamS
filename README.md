@@ -28,9 +28,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 + 🌱 Exploring **Data Structures & Algorithms** — mostly trying to bribe my code into cooperating.  
 
 <p align="center">
-
 [![Resume](https://img.shields.io/badge/📄_Download-Resume-brightgreen?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1zgPG3nNXcda1tYqfAke0qbEgAUwHvnGb)
-
 </p>
 
 </td>
