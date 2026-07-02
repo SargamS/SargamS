@@ -4,8 +4,8 @@
 
 printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">")
 + 🎓 Expected graduation: 2028
-+ 🐛 Actual graduation: my code, in Chaos Engineering, with distinction.. NO CEREMONY REQUIRED.
-+ CGPA: 9.51 | Sleep schedule: undefined
++ 🐛 Actual graduation: my code, in Chaos Engineering, with distinction.. NO CEREMONY REQUIRED
++ 💡 CGPA: 9.51 | Sleep schedule: undefined
 
 <h2 align="center">Connect With Me</h2>
 
