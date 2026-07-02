@@ -2,74 +2,69 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sargam+Sharma;IT+Student+%7C+Open-Source+Enthusiast;Debugging+life%2C+one+push+at+a+time" alt="Typing SVG" />
 </h1>
 
-## printf("Hi, I’m Sargam Sharma<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> "); 
-🎓 2nd-year IT Student | Open-Source Enthusiast  
-💻 Building digital solutions | Debugging adventures included | Always learning  
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SargamS&label=Profile%20Views&color=6C5CE7&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/SargamS?label=Followers&style=social" alt="Followers"/>
+</p>
 
-## Connect With Me  
+<p align="center">
+  🐍 “Taming code and chaos since forever.” &nbsp;|&nbsp; 🧿 Manifesting &nbsp;|&nbsp; 📍 Noida, India
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SargamS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-sargam-sharma/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sargam1086@gmail.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sargam08)
+---
 
-<table>
-<tr>
-<td>
+### 🧩 About Me
+- 🎓 2nd-year IT Student, Open-Source Enthusiast
+- 💻 Building digital solutions — debugging adventures included
+- 🔍 Currently exploring **Data Structures & Algorithms**
+- 🌱 Forever a student of code, bugs, and life
+- ☕ Fueled by coffee and stubborn merge conflicts
 
-- 💻 I build digital solutions… and sometimes destroy them spectacularly — all in the name of **“learning by debugging.”**  
-- 💡 Passionate about solving real-world problems (coffee ☕ strongly recommended for survival).  
-- 🧩 Open-source addict — because nothing says “fun weekend” like 47 merge conflicts and a mysterious `git push` panic.  
-- 🔍 Exploring **Data Structures & Algorithms** — mostly trying to bribe my code into cooperating.  
-- 🌱 Forever a student of code, bugs, and life. 
+### 🚀 Featured Work
+- **[DataNova](https://github.com/Slaytistics/DataNova)** — no-code Streamlit app that summarizes CSV/Excel data with GPT-4 and generates interactive infographics
+- **[Hospital Management System](https://github.com/SargamS/hospital-management-system)** — Python & MySQL hospital app with UI
+- **[SamudraSetu](https://github.com/SargamS/SamudraSetu-)** — TypeScript project
 
-</td>
-<td>
+### 🛠️ Tech Stack
 
-<img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" width="240px">
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-</td>
-</tr>
-</table>
+### 📊 GitHub Stats
 
-## Tech Stack
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SargamS&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SargamS&theme=tokyonight&hide_border=true" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-00C4CC?style=for-the-badge&logo=databricks&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![OOPs](https://img.shields.io/badge/OOPs-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Figma API](https://img.shields.io/badge/Figma%20API-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-</div>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SargamS&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-The Real Coding Formula 😅
+### 🏆 Trophies
 
-```text
-Real Code =
-    if (worksOnFirstTry) {
-        Success!
-    } else {
-        Debug();
-        repeat until (coffeeRunsOut);
-    }
-```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SargamS&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+</p>
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sargam1086@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/sargam08"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>“Real Code = if (worksOnFirstTry) Success(); else { Debug(); repeat until (coffeeRunsOut); }”</i></p>
