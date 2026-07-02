@@ -70,9 +70,13 @@ The Real Coding Formula 😅
 ```text
 Real Code =
     if (worksOnFirstTry) {
-        Success!
+        screenshot(); // for proof, no one will believe me
     } else {
         Debug();
-        repeat until (coffeeRunsOut);
+        repeat until (willToLiveRunsOut);
     }
+const developer = {
+    mood: getBuildStatus() === "passed" ? "euphoric" : "questioning_life_choices",
+    confidence: Math.random(), // no correlation to actual skill
+};
 ```
