@@ -50,7 +50,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <img src="https://img.shields.io/badge/OOPs-FF6F00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Computer%20Networks-2C3E50?style=for-the-badge&logo=cisco&logoColor=white">
 <img src="https://img.shields.io/badge/Operating%20Systems-4B0082?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">  
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
