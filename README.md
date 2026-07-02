@@ -20,11 +20,12 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <tr>
 <td>
 
-- 💻 I build digital solutions… and sometimes destroy them spectacularly — all in the name of **“learning by debugging.”**  
-- 💡 Passionate about solving real-world problems (coffee ☕ strongly recommended for survival).  
-- 🧩 Open-source addict — because nothing says “fun weekend” like 47 merge conflicts and a mysterious `git push` panic.  
-- 🔍 Exploring **Data Structures & Algorithms** — mostly trying to bribe my code into cooperating.  
-- 🌱 Forever a student of code, bugs, and life. 
+🔭 Automating tasks so future me can suffer in peace
+🐛 "Works on my machine" — patent pending
+🧩 Solving problems I invented approximately 24 hours ago
+🌀 Deploy first, panic accordingly
+☕ Open-source addict — because nothing says “fun weekend” like 47 merge conflicts and a mysterious `git push` panic.  
+🌱 Exploring **Data Structures & Algorithms** — mostly trying to bribe my code into cooperating.  
 
 </td>
 <td>
