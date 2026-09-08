@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sargam+Sharma;IT+Student+%7C+Open-Source+Enthusiast;Debugging+life%2C+one+push+at+a+time" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SargamS&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views">
+
+  <img src="https://view-counter-livid.vercel.app/api?username=SargamS&repo=YOUR-REPO-NAME" alt="Repository Views">
+</p>
+
 printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">");
 + 🎓 Expected graduation: 2028
 + 🐛 Actual graduation: my code, in Chaos Engineering, with distinction.. NO CEREMONY REQUIRED
