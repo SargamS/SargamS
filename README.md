@@ -35,7 +35,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </td>
 <td>
 
-<img src="image.png" width="350px">
+<img src="image.png" width="320px">
 
 </td>
 </tr>
