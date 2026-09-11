@@ -9,11 +9,11 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <h3 align="center">connect with me ✦</h3>
 
 <p align="center">
-<a href="https://portfoliosargam.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="55" /></a>
-<a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>
-<a href="mailto:sargam1086@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a>
-<a href="https://codolio.com/profile/Sargam_786"><img src="https://img.shields.io/badge/-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="55" /></a>
-<a href="https://www.geeksforgeeks.org/profile/sargam08"><img src="https://img.shields.io/badge/-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="55" /></a>
+<a href="https://portfoliosargam.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" /></a>
+<a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" /></a>
+<a href="mailto:sargam1086@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="40" /></a>
+<a href="https://codolio.com/profile/Sargam_786"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/sargam08"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40" /></a>
 </p>
 
 <table>
