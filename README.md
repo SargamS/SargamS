@@ -24,7 +24,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <td>
 <p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">&nbsp;</p>
 
-- 🔮 I can predict exactly which line will throw an error..Hmmmm..right after it throws.
+- 🔮 I can predict exactly which line will throw an error ..Hmmmm.. right after it throws.
 - 🎭 Two modes: "genius who just built a full app in an hour" n "can't center a div for 3 days."
 - 💣 `git push --force` is my 4ever cardio.
 - 🧠 My brain has two tabs open: the actual problem n why the printer isn't working.
@@ -49,11 +49,11 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 Languages
 
 <p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
 </p>
