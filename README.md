@@ -10,38 +10,35 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <h2 align="center">✦ connect with me ✦</h2>
 
 <p align="center">
-  <a href="https://portfoliosargam.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/er-sargam-sharma/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sargam1086@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codolio.com/profile/Sargam_786">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/sargam08">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50" />
-  </a>
+<a href="https://portfoliosargam.vercel.app/">
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/er-sargam-sharma/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sargam1086@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" height="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://codolio.com/profile/Sargam_786">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/sargam08">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50" />
+</a>
 </p>
 
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=header" width="100%">
-</p>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<table border="0">
+<table>
 <tr>
 <td>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">
 </p>
 
 - 🔮 I can predict exactly which line will throw an error ..Hmmmm.. right after it throws.
@@ -53,23 +50,22 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 - 🪦 RIP to every ; I forgot n blamed the compiler for.
 
 </td>
+
 <td>
-
 <img src="image.png" width="350px">
-
 </td>
 </tr>
 </table>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <h2 align="center">Tech Stack</h2>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10" style="border:0; border-collapse:collapse;">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td width="50%" valign="top">
 
-<tr style="border:0;">
-
-<td valign="top" width="50%" style="border:0;">
-
-Languages
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -82,9 +78,9 @@ Languages
 
 </td>
 
-<td valign="top" width="50%" style="border:0;">
+<td width="50%" valign="top">
 
-CS Fundamentals
+### CS Fundamentals
 
 <p>
 <img src="https://img.shields.io/badge/Data%20Structures-00C4CC?style=for-the-badge&logo=databricks&logoColor=white">
@@ -98,14 +94,12 @@ CS Fundamentals
 </p>
 
 </td>
-
 </tr>
 
-<tr style="border:0;">
+<tr>
+<td width="50%" valign="top">
 
-<td valign="top" width="50%" style="border:0;">
-
-Data & ML
+### Data & ML
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -120,9 +114,9 @@ Data & ML
 
 </td>
 
-<td valign="top" width="50%" style="border:0;">
+<td width="50%" valign="top">
 
-Tools & Platforms
+### Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Figma%20API-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -133,7 +127,7 @@ Tools & Platforms
 </p>
 
 </td>
-
 </tr>
-
 </table>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
