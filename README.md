@@ -1,13 +1,17 @@
-<div align="center">
+<h1 align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Sargam+Sharma+%E2%80%94+work+in+progress...;the+idea+was+simple.;collecting+souvenirs+along+the+way!" alt="Typing SVG" />
-</div>
+</h1>
 
 printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">");
 
 + 🎓 CGPA: 9.51 | Class of 2028
 
-<p align="center"><b style="font-size: 22px;">✦ connect with me ✦</b></p>
+<h2 align="center">✦ connect with me ✦</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="500">
+</p>
 
 <p align="center">
 <a href="https://portfoliosargam.vercel.app/">
@@ -31,14 +35,12 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </a>
 </p>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
 <table>
 <tr>
 <td>
 
 <p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">&nbsp;
 </p>
 
 - 🔮 I can predict exactly which line will throw an error ..Hmmmm.. right after it throws.
@@ -50,22 +52,21 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 - 🪦 RIP to every ; I forgot n blamed the compiler for.
 
 </td>
-
 <td>
+
 <img src="image.png" width="350px">
+
 </td>
 </tr>
 </table>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<h2 align="center">Tech Stack</h2>
 
-<p align="center"><b style="font-size: 22px;">Tech Stack</b></p>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Languages
+Languages
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -77,10 +78,9 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </p>
 
 </td>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
-
-### CS Fundamentals
+CS Fundamentals
 
 <p>
 <img src="https://img.shields.io/badge/Data%20Structures-00C4CC?style=for-the-badge&logo=databricks&logoColor=white">
@@ -95,11 +95,10 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### Data & ML
+Data & ML
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -113,10 +112,9 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </p>
 
 </td>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
-
-### Tools & Platforms
+Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Figma%20API-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -129,5 +127,3 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </td>
 </tr>
 </table>
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
