@@ -42,8 +42,8 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
-**💻 Languages**
- 
+Languages
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -55,7 +55,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </p>
 </td>
 <td valign="top" width="50%">
-**🧠 CS Fundamentals**
+CS Fundamentals
  
 <p>
 <img src="https://img.shields.io/badge/Data%20Structures-00C4CC?style=for-the-badge&logo=databricks&logoColor=white">
@@ -70,7 +70,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </tr>
 <tr>
 <td valign="top" width="50%">
-**📊 Data & ML**
+Data & ML
  
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -84,7 +84,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </p>
 </td>
 <td valign="top" width="50%">
-**🛠️ Tools & Platforms**
+Tools & Platforms
  
 <p>
 <img src="https://img.shields.io/badge/Figma%20API-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
