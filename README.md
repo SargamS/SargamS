@@ -10,14 +10,19 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 + 💡 CGPA: 9.51 
 
 <h2 align="center">Connect With Me</h2>
-
 <p align="center">
-<a href="https://github.com/SargamS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:sargam1086@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://codolio.com/profile/Sargam_786">
-  <img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge">
-</a>
+  <a href="https://github.com/SargamS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/er-sargam-sharma/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:sargam1086@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://codolio.com/profile/Sargam_786">
+    <img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logo=codolio&logoColor=white">
+  </a>
 </p>
 
 <table>
