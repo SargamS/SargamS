@@ -101,19 +101,3 @@ Tools & Platforms
 </td>
 </tr>
 </table>
-
-The Real Coding Formula 😅
-
-```text
-const developer = { confidence: Math.random() }; // no correlation to actual skill
-
-Real Code =
-    if (worksOnFirstTry) {
-        screenshot();               // for proof, no one will believe me
-        developer.mood = "euphoric";
-    } else {
-        Debug();
-        repeat until (willToLiveRunsOut);
-        developer.mood = "questioning_life_choices";
-    }
-```
