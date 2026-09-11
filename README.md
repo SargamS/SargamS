@@ -1,13 +1,13 @@
-<h1 align="center">
+<div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Sargam+Sharma+%E2%80%94+work+in+progress...;the+idea+was+simple.;collecting+souvenirs+along+the+way!" alt="Typing SVG" />
-</h1>
+</div>
 
 printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">");
 
 + 🎓 CGPA: 9.51 | Class of 2028
 
-<h2 align="center">✦ connect with me ✦</h2>
+<p align="center"><b style="font-size: 22px;">✦ connect with me ✦</b></p>
 
 <p align="center">
 <a href="https://portfoliosargam.vercel.app/">
@@ -59,7 +59,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<h2 align="center">Tech Stack</h2>
+<p align="center"><b style="font-size: 22px;">Tech Stack</b></p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tr>
