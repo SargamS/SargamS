@@ -22,9 +22,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <table>
 <tr>
 <td>
-<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">&nbsp;</p>
-
-### ⚡ fun facts
+<p align="center"><### ⚡ fun img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">&nbsp;</p>
 
 - 🔮 I can predict exactly which line will throw an error — right after it throws.
 - 🎭 Two modes: "genius who just built a full app in an hour" and "can't center a div for 3 days."
