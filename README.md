@@ -10,7 +10,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <br>
 
 ```
-"If life gives you lemons, squeeze them over your kebab and call it a day."
+"If life gives you lemons, squeeze them over your kebabs and call it a day."
 ```
 
 <h2 align="center">✦ connect with me ✦</h2>
@@ -41,7 +41,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </td>
 <td>
 
-<img src="image.png" width="320px">
+<img src="image.png" width="300px">
 
 </td>
 </tr>
@@ -114,6 +114,3 @@ Tools & Platforms
 </td>
 </tr>
 </table>
-
-<br>
-Make your own Octocat at [octodex.github.com](https://octodex.github.com/)
