@@ -22,7 +22,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <table>
 <tr>
 <td>
-<p align="center"> ### ⚡ fun <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">&nbsp;</p>
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">&nbsp;</p>
 
 - 🔮 I can predict exactly which line will throw an error — right after it throws.
 - 🎭 Two modes: "genius who just built a full app in an hour" and "can't center a div for 3 days."
@@ -31,12 +31,10 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 - 👻 Half my variables are named `finalFinal`.
 - 🤝 Me and ChatGPT have a 50/50 partnership — I ask questions, it pretends to know the answer.
 - 🪦 RIP to every semicolon I forgot and blamed the compiler for.
-
-
 </td>
 <td>
 
-<img src="image.png" width="300px">
+<img src="image.png" width="350px">
 
 </td>
 </tr>
