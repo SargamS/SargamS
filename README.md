@@ -20,7 +20,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <table>
 <tr>
 <td>
-<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="55">&nbsp;</p>
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="25">&nbsp;</p>
 
 + 🔭 Automating tasks so future me can suffer in peace
 + 🐛 "Works on my machine" — patent pending
