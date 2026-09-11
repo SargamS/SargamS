@@ -7,6 +7,12 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 
 + 🎓 CGPA: 9.51 | Class of 2028
 
+<br>
+
+```
+"If life gives you lemons, squeeze them over your kebab and call it a day."
+```
+
 <h2 align="center">✦ connect with me ✦</h2>
 <p align="center"> 
   <a href="https://portfoliosargam.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="50" /></a>&nbsp;&nbsp;&nbsp;
@@ -110,8 +116,4 @@ Tools & Platforms
 </table>
 
 <br>
-
-```
-"If life gives you lemons, squeeze them over your kebab and call it a day."
-```
 Make your own Octocat at [octodex.github.com](https://octodex.github.com/)
