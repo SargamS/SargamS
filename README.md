@@ -7,8 +7,7 @@
 printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">");
 + 🎓 CGPA: 9.51 | Class of 2028
 
-<h2 align="center">Connect With Me</h2>
-<p align="center">
+<p align="center"> Connect With Me
 <a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:sargam1086@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://codolio.com/profile/Sargam_786"><img src="https://custom-icon-badges.herokuapp.com/badge/Codolio-7C3AED?style=for-the-badge&logo=code&logoColor=white"></a>
