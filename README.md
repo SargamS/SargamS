@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Sargam+Sharma+%E2%80%94+work+in+progress...;the+idea+was+simple.;collecting+souvenirs+along+the+way;the+plot+is+still+developing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Sargam+Sharma+%E2%80%94+work+in+progress...;the+idea+was+simple.;collecting+souvenirs+along+the+way" alt="Typing SVG" />
 </h1>
 
 
