@@ -62,10 +62,10 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 
 <h2 align="center">Tech Stack</h2>
  
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tr>
-<td valign="top" width="50%">
-Languages
+<td width="50%" valign="top">
+### Languages
  
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -76,8 +76,8 @@ Languages
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </p>
 </td>
-<td valign="top" width="50%">
-CS Fundamentals
+<td width="50%" valign="top">
+### CS Fundamentals
  
 <p>
 <img src="https://img.shields.io/badge/Data%20Structures-00C4CC?style=for-the-badge&logo=databricks&logoColor=white">
@@ -92,8 +92,8 @@ CS Fundamentals
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
-Data & ML
+<td width="50%" valign="top">
+### Data & ML
  
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -106,8 +106,8 @@ Data & ML
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
 </p>
 </td>
-<td valign="top" width="50%">
-Tools & Platforms
+<td width="50%" valign="top">
+### Tools & Platforms
  
 <p>
 <img src="https://img.shields.io/badge/Figma%20API-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
