@@ -5,7 +5,7 @@
 
 
 printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">");
-+ 🎓 Expected graduation: 2028    |    CGPA: 9.51 
++ 🎓 CGPA: 9.51 | Class of 2028
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
