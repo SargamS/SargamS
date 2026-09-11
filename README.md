@@ -61,13 +61,12 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </table>
 
 <h2 align="center">Tech Stack</h2>
-
+ 
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
-
 Languages
-
+ 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -76,12 +75,10 @@ Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </p>
-
 </td>
 <td valign="top" width="50%">
-
 CS Fundamentals
-
+ 
 <p>
 <img src="https://img.shields.io/badge/Data%20Structures-00C4CC?style=for-the-badge&logo=databricks&logoColor=white">
 <img src="https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge&logo=thealgorithms&logoColor=white">
@@ -92,14 +89,12 @@ CS Fundamentals
 <img src="https://img.shields.io/badge/Operating%20Systems-4B0082?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white">
 </p>
-
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
-
 Data & ML
-
+ 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -110,12 +105,10 @@ Data & ML
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
 </p>
-
 </td>
 <td valign="top" width="50%">
-
 Tools & Platforms
-
+ 
 <p>
 <img src="https://img.shields.io/badge/Figma%20API-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
@@ -123,7 +116,6 @@ Tools & Platforms
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
-
 </td>
 </tr>
 </table>
