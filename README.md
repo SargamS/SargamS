@@ -111,6 +111,7 @@ Tools & Platforms
 
 
 <p>Life advice, slightly broken:</p>
+
 ```
 "If life gives you lemons, squeeze them over your kebab and call it a day."
 ```
