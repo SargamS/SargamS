@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Sargam+Sharma+%E2%80%94+work+in+progress...;the+idea+was+simple.;collecting+souvenirs+along+the+way!" alt="Typing SVG" />
 </h1>
 
-
 printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">");
 + 🎓 CGPA: 9.51 | Class of 2028
 
@@ -12,7 +11,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <a href="mailto:sargam1086@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://codolio.com/profile/Sargam_786"><img src="https://custom-icon-badges.herokuapp.com/badge/Codolio-7C3AED?style=for-the-badge&logo=code&logoColor=white"></a>
 <a href="https://www.geeksforgeeks.org/profile/sargam08"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-</h3>
+</h2>
 
 <table>
 <tr>
