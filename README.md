@@ -6,16 +6,29 @@
 printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">");
 + 🎓 CGPA: 9.51 | Class of 2028
 
-<h3 align="center">connect with me ✦</h3>
+<h3 align="center">Connect with me ✦</h3>
 
 <p align="center">
-<a href="https://portfoliosargam.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" /></a>
-<a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" /></a>
-<a href="mailto:sargam1086@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="40" /></a>
-<a href="https://codolio.com/profile/Sargam_786"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" /></a>
-<a href="https://www.geeksforgeeks.org/profile/sargam08"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40" /></a>
+  <a href="https://portfoliosargam.vercel.app/">
+    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/er-sargam-sharma/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sargam1086@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codolio.com/profile/Sargam_786">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/sargam08">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="30" />
+  </a>
 </p>
-
 <table>
 <tr>
 <td>
