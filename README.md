@@ -1,7 +1,65 @@
+<h1 align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Sargam+Sharma+%E2%80%94+work+in+progress...;the+idea+was+simple.;collecting+souvenirs+along+the+way!" alt="Typing SVG" />
+</h1>
+
+printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">");
+
++ 🎓 CGPA: 9.51 | Class of 2028
+
+<h2 align="center">✦ connect with me ✦</h2>
+
+<p align="center">
+  <a href="https://portfoliosargam.vercel.app/">
+    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/er-sargam-sharma/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sargam1086@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codolio.com/profile/Sargam_786">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/sargam08">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50" />
+  </a>
+</p>
+
 <!-- DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=header" width="100%">
 </p>
+
+<table border="0">
+<tr>
+<td>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">
+</p>
+
+- 🔮 I can predict exactly which line will throw an error ..Hmmmm.. right after it throws.
+- 🎭 Two modes: "genius who just built a full app in an hour" n "can't center a div for 3 days."
+- 💣 `git push --force` is my 4ever cardio.
+- 🧠 My brain has two tabs open: the actual problem n why the printer isn't working.
+- 👻 Half my variables are named `finalFinal`.
+- 🤝 Me n ChatGPT have a 50/50 partnership, I ask questions, it pretends to know the answer.
+- 🪦 RIP to every ; I forgot n blamed the compiler for.
+
+</td>
+<td>
+
+<img src="image.png" width="350px">
+
+</td>
+</tr>
+</table>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -79,8 +137,3 @@ Tools & Platforms
 </tr>
 
 </table>
-
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=header" width="100%">
-</p>
