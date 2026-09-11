@@ -109,8 +109,7 @@ Tools & Platforms
 </tr>
 </table>
 
-
-<p>Life advice, slightly broken:</p>
+<br>
 
 ```
 "If life gives you lemons, squeeze them over your kebab and call it a day."
