@@ -9,18 +9,11 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <h3 align="center">connect with me ✦</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/er-sargam-sharma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sargam1086@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://codolio.com/profile/Sargam_786">
-    <img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logo=code&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/sargam08">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
+<a href="https://portfoliosargam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sargam1086@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://codolio.com/profile/Sargam_786"><img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/profile/sargam08"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 <table>
