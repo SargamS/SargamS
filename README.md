@@ -40,7 +40,6 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 </tr>
 </table>
 
-
 <h2 align="center">Tech Stack</h2>
  
 <table width="100%">
@@ -55,7 +54,6 @@ Languages
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
 </p>
 </td>
 <td valign="top" width="50%">
@@ -69,6 +67,7 @@ CS Fundamentals
 <img src="https://img.shields.io/badge/OOPs-FF6F00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Computer%20Networks-2C3E50?style=for-the-badge&logo=cisco&logoColor=white">
 <img src="https://img.shields.io/badge/Operating%20Systems-4B0082?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white">
 </p>
 </td>
 </tr>
