@@ -59,7 +59,7 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<p align="center"><b style="font-size: 22px;">Tech Stack</b></p>
+<h2 align="center"><b style="font-size: 22px;">Tech Stack</b></h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tr>
