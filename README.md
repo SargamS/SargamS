@@ -6,29 +6,16 @@
 printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">");
 + 🎓 CGPA: 9.51 | Class of 2028
 
-<h3 align="center">Connect with me ✦</h3>
+<h3 align="center">connect with me ✦</h3>
 
 <p align="center">
-  <a href="https://portfoliosargam.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/er-sargam-sharma/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sargam1086@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codolio.com/profile/Sargam_786">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/sargam08">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="30" />
-  </a>
+<a href="https://portfoliosargam.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" /></a>
+<a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" /></a>
+<a href="mailto:sargam1086@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" /></a>
+<a href="https://codolio.com/profile/Sargam_786"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" width="90" height="30" /></a>
+<a href="https://www.geeksforgeeks.org/profile/sargam08"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" width="90" height="30" /></a>
 </p>
+
 <table>
 <tr>
 <td>
