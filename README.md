@@ -108,3 +108,7 @@ Tools & Platforms
 </td>
 </tr>
 </table>
+
+```
+> "If life gives you lemons, squeeze them over your kebab and call it a day."
+```
