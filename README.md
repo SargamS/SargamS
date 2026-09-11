@@ -24,12 +24,15 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <td>
 <p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="105">&nbsp;</p>
 
-+ 🔭 Automating tasks so future me can suffer in peace
-+ 🐛 "Works on my machine" — patent pending
-+ 🧩 Solving problems I invented approximately 24 hours ago
-+ 🌀 Deploy first, panic accordingly
-+ ☕ Open-source addict — because nothing says “fun weekend” like 47 merge conflicts and a mysterious `git push` panic.  
-+ 🌱 Exploring **Data Structures & Algorithms** — mostly trying to bribe my code into cooperating.
+### ⚡ fun facts
+
+- 🔮 I can predict exactly which line will throw an error — right after it throws.
+- 🎭 Two modes: "genius who just built a full app in an hour" and "can't center a div for 3 days."
+- 💣 `git push --force` is my cardio.
+- 🧠 My brain has two tabs open: the actual problem, and why the printer isn't working.
+- 👻 Half my variables are named `finalFinal`.
+- 🤝 Me and ChatGPT have a 50/50 partnership — I ask questions, it pretends to know the answer.
+- 🪦 RIP to every semicolon I forgot and blamed the compiler for.
 
 
 </td>
