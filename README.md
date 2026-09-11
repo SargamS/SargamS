@@ -8,11 +8,6 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 + 🎓 CGPA: 9.51 | Class of 2028
 
 <h2 align="center">✦ connect with me ✦</h2>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="500">
-</p>
-
 <p align="center">
 <a href="https://portfoliosargam.vercel.app/">
 <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="50" />
