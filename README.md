@@ -9,11 +9,11 @@ printf("Hola! 404: Sleep not found. <img src="https://github.com/TheDudeThatCode
 <h3 align="center">connect with me ✦</h3>
 
 <p align="center">
-<a href="https://portfoliosargam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
-<a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" /></a>
-<a href="mailto:sargam1086@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" /></a>
-<a href="https://codolio.com/profile/Sargam_786"><img src="https://img.shields.io/badge/Codolio-purple?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=7C3AED&color=7C3AED" /></a>
-<a href="https://www.geeksforgeeks.org/profile/sargam08"><img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46&color=2F8D46" /></a>
+<a href="https://portfoliosargam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/er-sargam-sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sargam1086@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://codolio.com/profile/Sargam_786"><img src="https://img.shields.io/badge/Codolio-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/profile/sargam08"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 <table>
